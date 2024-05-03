@@ -1,36 +1,140 @@
-# About Me
+## About Me
 
-Hi there! I'm [Haikal](https://www.linkedin.com/in/yourprofile), a passionate software developer with expertise in various technologies. I love creating innovative solutions and exploring new avenues in the world of programming. 
+Hi there! Welcome to my GitHub profile. Here's a little bit about me:
 
-## Tech Stack
+- **Name:** [Your Name]
+- **Location:** [Your Location]
+- **Programming Skills:** My programming skills are evaluated using a bar score from 1 to 10.
 
-- **Frontend**: 
-  - HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-  - CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-  - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- **Backend**: 
-  - Python ![Python](https://img.icons8.com/color/48/000000/python.png) (Flask, Django)
-  - PHP ![PHP](https://img.icons8.com/offices/30/000000/php-logo.png) (Laravel)
-- **Other Languages**: 
-  - C++ ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-  - C# ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-- **Databases**: 
-  - MySQL ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png)
-- **Tools & Platforms**: 
-  - GitHub ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
-  - Debian ![Debian](https://img.icons8.com/color/48/000000/debian.png)
-  - MikroTik ![MikroTik](https://img.icons8.com/color/48/000000/mikrotik.png)
+## Table of Contents
 
-## My Programming Skill
+- [About Me](#about-me)
+  - [Tech Stack](#tech-stack)
+  - [Programming Skills](#programming-skills)
+  - [Connect With Me](#connect-with-me)
 
-I have extensive experience in developing web applications using the mentioned technologies. From crafting responsive and intuitive user interfaces with HTML, CSS, and JavaScript to building robust backend systems with Python, Flask, Django, and PHP frameworks like Laravel, I enjoy every aspect of the development process. Moreover, I'm proficient in working with databases, particularly MySQL, and I'm adept at utilizing version control systems like Git/GitHub for collaborative projects.
+### Tech Stack
 
-## Connect with Me
+- **Languages:** HTML, CSS, JavaScript, PHP, Python, C++, C#, Java
+- **Frameworks:** Laravel, Flask, Django
+- **Databases:** MySQL
+- **Operating Systems:** Debian
+- **Version Control:** GitHub
 
-- **Facebook**: [Your Facebook Profile](https://www.facebook.com/yourusername) ![Facebook](https://img.icons8.com/color/48/000000/facebook.png)
-- **Instagram**: [Your Instagram Profile](https://www.instagram.com/yourusername) ![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)
-- **YouTube**: [Your YouTube Channel](https://www.youtube.com/yourchannel) ![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)
-- **Gmail**: [Your Email Address](mailto:youremail@gmail.com) ![Gmail](https://img.icons8.com/color/48/000000/gmail.png)
+### Programming Skills
 
-Feel free to reach out to me through any of these channels. I'm always open to interesting discussions, collaborations, and opportunities!
+Here's an overview of my programming skills based on a bar score:
+
+- HTML: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{HTML_SCORE}}%;"></div>
+    </div>
+    ```
+
+- CSS: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{CSS_SCORE}}%;"></div>
+    </div>
+    ```
+
+- JavaScript: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{JS_SCORE}}%;"></div>
+    </div>
+    ```
+
+- PHP: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{PHP_SCORE}}%;"></div>
+    </div>
+    ```
+
+- Python: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{PYTHON_SCORE}}%;"></div>
+    </div>
+    ```
+
+- C++: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{CPP_SCORE}}%;"></div>
+    </div>
+    ```
+
+- C#: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{CSHARP_SCORE}}%;"></div>
+    </div>
+    ```
+
+- Java: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{JAVA_SCORE}}%;"></div>
+    </div>
+    ```
+
+- Laravel: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{LARAVEL_SCORE}}%;"></div>
+    </div>
+    ```
+
+- Flask: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{FLASK_SCORE}}%;"></div>
+    </div>
+    ```
+
+- Django: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{DJANGO_SCORE}}%;"></div>
+    </div>
+    ```
+
+- MySQL: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{MYSQL_SCORE}}%;"></div>
+    </div>
+    ```
+
+- Debian: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{DEBIAN_SCORE}}%;"></div>
+    </div>
+    ```
+
+- GitHub: 
+    ```html
+    <div class="skill-bar-container">
+        <div class="skill-bar" style="width: {{GITHUB_SCORE}}%;"></div>
+    </div>
+    ```
+
+### Connect With Me
+
+You can connect with me on the following platforms:
+
+- **Facebook:** [Your Facebook Profile URL]
+- **Instagram:** [Your Instagram Profile URL]
+- **Twitter:** [Your Twitter Profile URL]
+- **YouTube:** [Your YouTube Channel URL]
+- **Gmail:** [Your Gmail Address]
+
+Feel free to reach out to me if you have any questions or just want to connect!
+
+---
+
+*This README.md was generated dynamically.*
